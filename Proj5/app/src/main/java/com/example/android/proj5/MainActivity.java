@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         // Add the custom surfaceview object to the layout.
         canvasLayout.addView(customSurfaceView);
 
-        // Click this button to draw a red circle ball move after finger touch.
+        // Click this button to draw                   a red circle ball move after finger touch.
         redButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
